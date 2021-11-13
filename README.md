@@ -1,1 +1,2 @@
 "batunu reposu" 
+"# firstrepo" 
